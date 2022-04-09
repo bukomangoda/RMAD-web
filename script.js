@@ -1,0 +1,6 @@
+showdata()
+{
+    console.write("Hello ")
+
+
+};
